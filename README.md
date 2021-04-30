@@ -25,8 +25,6 @@ YDJSIR, Sugar Xu &amp; Cong Jin's project of 2020 Data Science Basic Course in S
 
 为防止引起争议，开源版本中的所有微博原始数据均不予展示。
 
-原始报告数据在评分后抹掉相关关键词后后放出。
-
 
 
 > ### `Data`目录下文件结构
